@@ -1,4 +1,4 @@
----
+
 # 🧠 Exercícios de Python — Estruturas Condicionais (If e Else)
 
 Este conjunto de exercícios foi desenvolvido para praticar **tomada de decisão com `if` e `else`**, sem o uso de laços de repetição.
