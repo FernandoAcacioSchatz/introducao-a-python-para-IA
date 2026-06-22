@@ -28,4 +28,8 @@ nova_pessoa = [[7]]
 # Faz previsão
 resultado = modelo.predict(nova_pessoa)
 
-print(resultado)
+
+if resultado[0] == 1:
+    resultado = "Aprovado"
+else:
+    resultado = "Reprovado"
