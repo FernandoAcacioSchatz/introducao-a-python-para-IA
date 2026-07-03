@@ -474,8 +474,10 @@ exemplo()
 Se tentarmos acessar `mensagem` fora da função, teremos erro:
 
 ```python
+print(mensagem)
+
 # Isto gera erro, pois mensagem existe apenas dentro da função
-# print(mensagem)
+
 ```
 
 ## Analogia
