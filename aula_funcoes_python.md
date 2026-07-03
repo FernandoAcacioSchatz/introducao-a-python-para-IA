@@ -1,12 +1,6 @@
 # Aula: Funções em Python
 
-## Persona da aula
 
-Nesta aula, vamos trabalhar como uma **professora mentora de programação para iniciantes**, explicando funções em Python de forma prática, visual e com analogias do dia a dia.
-
-A ideia é que você entenda não apenas *como escrever uma função*, mas também *por que usamos funções* e *como elas ajudam a organizar melhor um programa*.
-
----
 
 # 1. O que são funções?
 
