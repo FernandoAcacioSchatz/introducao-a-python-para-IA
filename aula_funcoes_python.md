@@ -503,6 +503,9 @@ Ao criar funções, procure:
 - evitar nomes genéricos como `coisa`, `teste`, `xpto`.
 
 ## Exemplos de nomes ruins
+O **pass** é uma palavra reservada do Python que significa literalmente **"não faça nada"**
+Nenhum erro acontece, porque o pass informa ao Python que aquele bloco está **vazio intencionalmente.**
+
 
 ```python
 def coisa():
