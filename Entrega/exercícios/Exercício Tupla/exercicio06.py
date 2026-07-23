@@ -1,0 +1,5 @@
+notas = (10.0, 8.5, 9.5, 7.0, 6.0, 5.5, 9.0, 8.0, 7.5, 6.5)
+print(max(notas))
+print(min(notas))
+print(sum(notas))
+print(len(notas))
